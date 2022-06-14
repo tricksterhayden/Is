@@ -1,0 +1,52 @@
+.Sub{
+    font-size: 15px;
+    font-style: italic;
+}
+ .Inspire{
+    vertical-align: left;
+    size: 50px;
+}
+.Indexp{
+    font-size: 12px;
+}
+.bg{
+    background-color:white
+}
+.Link{
+    text-decoration: underline;
+}
+.tabbg
+{
+    background-color: #aaaaaa;
+}
+.Footer{
+    font-size: 10px;
+    font-style: italic;
+    text-decoration: #aaaaaa;
+}
+.Preface{
+    font-size: 25px;
+   
+}
+.Main{
+    font-size: 20px;
+    font-style: italic;
+}
+.Sub{
+    font-size: 12px;
+ 
+}
+.nav-item{
+    float: left;
+}
+.Title{
+    font-size: 40px;
+    text-align: center;
+    text-decoration: underline;
+}
+.footerhelp{
+    float: left;
+}
+.Over{
+    font-size: 30px;
+}
